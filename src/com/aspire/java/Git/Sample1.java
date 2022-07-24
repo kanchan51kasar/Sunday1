@@ -5,6 +5,7 @@ public class Sample1
 	public static void main(String[] args) 
 	{
 		System.out.println("Hii this is my first push program");
+		System.out.println("second change in program");
 		
 	}
 
